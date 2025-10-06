@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🚀 Employee Data Management | ASE Challenge Submission 💪🔥✨
 
 This project is submitted as part of the **Associate Software Engineer (ASE) Challenge** by **Verto**.  
